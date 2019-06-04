@@ -1,2 +1,2 @@
-# commando-cui
+# commando-console
 Commando Console
